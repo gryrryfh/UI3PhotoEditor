@@ -1,3 +1,3 @@
 # cpp-winui
 
-Build.Common.Cpp.props 파일을 PhotoEditor 폴더가 있는 곳에 복사를 해야 컴파일이 됩니다.
+처음에는 어떤 모드로 돌려도 배포 오류가 뜨지만 그 후 release x86이나 x64로 실행하면 작동합니다
